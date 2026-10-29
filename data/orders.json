@@ -1,0 +1,6 @@
+[
+ {"order_id":"ORD-1001","customer":"Sara","status":"processing","total_sar":145,"items":["Green scarf"],"email":"sara@example.test"},
+ {"order_id":"ORD-1002","customer":"Omar","status":"shipped","total_sar":89,"items":["Black hat"],"email":"omar@example.test"},
+ {"order_id":"ORD-1003","customer":"Nora","status":"delivered","total_sar":210,"items":["White scarf"],"email":"nora@example.test"},
+ {"order_id":"ORD-1004","customer":"Ali","status":"processing","total_sar":120,"items":["Green scarf"],"email":"ali@example.test"}
+]
